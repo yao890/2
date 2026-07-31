@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# 环境变量（包含 API Key，绝对不能上传！）
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 项目生成的文件（可选，建议不上传）
+history.csv
+*.pdf
+*.txt
